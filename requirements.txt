@@ -1,0 +1,7 @@
+<< 'EOF'
+pandas==2.0.3
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+pandera==0.17.2
+pytest==7.4.3
+EOF
