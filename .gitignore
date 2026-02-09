@@ -1,0 +1,53 @@
+<< 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Data files (too large for git)
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.parquet
+*.xlsx
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/*.log
+*.log
+
+# Environment variables (contains secrets)
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# SQL Server (if used)
+*.bak
+*.mdf
+*.ldf
+EOF
