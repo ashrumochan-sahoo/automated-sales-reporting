@@ -1,6 +1,6 @@
 -- ============================================
 -- Sales Analytics Database Schema
--- Author: Your Name
+-- Author: Ashrumochan Sahoo
 -- Database: SQLite
 -- Design: Star Schema
 -- ============================================
