@@ -49,3 +49,5 @@ htmlcov/
 *.bak
 *.mdf
 *.ldf
+# Tableau export files
+data/tableau_export/
