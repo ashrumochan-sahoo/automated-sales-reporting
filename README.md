@@ -190,7 +190,7 @@ automated-sales-reporting/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/automated-sales-reporting.git
+git clone https://github.com/ashrumochan-sahoo/automated-sales-reporting.git
 cd automated-sales-reporting
 ```
 
@@ -278,6 +278,22 @@ After running the pipeline:
 - Shell scripting for automation
 - Version control with Git
 - Production-ready logging
+
+---
+
+## 📊 Live Dashboard
+
+View the interactive Tableau dashboard:
+🔗 [Automated Sales Report — Tableau Public] --> https://public.tableau.com/views/AutomatedSalesReportingPipeline_1/ExecutiveOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard 1 — Executive Overview:
+- Revenue & Profit by Region
+- Monthly Sales Trend (2019-2022)
+- Customer Segment Performance
+
+Dashboard 2 — Product & Discount Analysis:
+- Revenue & Profit by Category
+- Discount vs Profit Scatter Plot
 
 ---
 
