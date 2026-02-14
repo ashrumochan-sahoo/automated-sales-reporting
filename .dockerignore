@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data files (mount as volume instead)
+data/raw/
+data/processed/
+data/tableau_export/
+data/*.db
+
+# Logs
+logs/
+
+# Git
+.git/
+.gitignore
+
+# Environment
+.env
+
+# Tests
+tests/
+
+# OS
+.DS_Store
