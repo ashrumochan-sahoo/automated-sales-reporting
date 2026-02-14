@@ -297,6 +297,25 @@ Dashboard 2 — Product & Discount Analysis:
 
 ---
 
+## 🐳 Docker Usage
+
+### Run with Docker (no Python setup needed!)
+
+**Prerequisites:** Docker Desktop installed
+
+**Build the image:**
+```bash
+docker build -t sales-pipeline .
+```
+
+**Run the pipeline:**
+```bash
+docker compose up
+```
+---
+
+**That's it! No venv, no pip install, no setup.**
+
 ## 👤 Author
 
 **Ashrumochan Sahoo**
